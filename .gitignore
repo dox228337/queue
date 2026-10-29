@@ -1,0 +1,9 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# System / IDE
+.vscode/
+.idea/
+*.log
